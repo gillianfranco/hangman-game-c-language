@@ -1,0 +1,7 @@
+6
+apple
+banana
+orange
+rice
+sugar
+water
